@@ -1,4 +1,9 @@
 # Longitudinal AI Governance — White Paper
+**Hollow House Institute**  
+**Structured Human Intelligence**
+
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
 
 This repository contains the canonical Hollow House Institute white paper introducing a longitudinal framework for AI governance.
 
